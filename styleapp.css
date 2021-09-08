@@ -1,0 +1,54 @@
+
+.container{
+	width: 100%;
+	height: 100%;
+	margin:0% ;
+}
+.container-one{
+	width: 18%;
+}
+body{
+	background:url(mh3.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+    margin: 0%;
+ }
+ .submit-btn{
+	background-color:#000000;;
+	color:papayawhip;
+	margin:2%;
+	text-transform: uppercase;
+	padding: 0%auto;
+
+}
+.submit-btn:hover{
+	 background-color: red;
+	 transition:background-color 2s;
+	 width: 1s;
+}
+.reset-btn{
+    background-color:#000000;;
+	color:papayawhip;
+	margin:2%;
+	text-transform: uppercase;
+	padding: 0% auto;
+	
+}
+.reset-btn:hover{
+    background-color: red;
+	 transition:background-color 2s;
+	 width: 1s;
+}
+.name{
+	background-color:brown;
+	color:cornsilk;
+}
+.city{
+	background-color:darkkhaki;
+	color:floralwhite
+}
+.text{
+	background: rgb(41, 80, 57);
+	color:lemonchiffon;
+}
